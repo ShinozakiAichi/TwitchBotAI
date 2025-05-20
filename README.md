@@ -40,14 +40,16 @@
 
 ---
 
-## 👤 Автор
+## 📄 Лицензия
 
-**ShinozakiAichi**  
-Twitch: [@shinozakiaichi](https://twitch.tv/shinozakiaichi)  
-GitHub: [github.com/ShinozakiAichi](https://github.com/ShinozakiAichi)
+Бот распространяется **бесплатно**, но исходный код закрыт.  
+Распространять `.exe` запрещено, делиться ссылкой — можно.
+
+📖 Подробнее см. [LICENSE.md](LICENSE.md)
 
 ---
 
-## 📄 Лицензия
+## 🧑‍💻 Автор
 
-MIT License — свободно распространяется при соблюдении условий.
+- Сайт: [shinozakiaichigit.carrd.co](https://shinozakiaichigit.carrd.co)
+- Автор: ShinozakiAichi
